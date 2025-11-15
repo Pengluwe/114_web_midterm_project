@@ -1,7 +1,7 @@
-querySelector / querySelectorAll: 用於獲取所有頁面元素。
-
-addEventListener: 用於監聽選項按鈕、下一題和提示按鈕的點擊。
-
-createElement: 用於動態生成選項按鈕 (renderOptions 函數)。
-
-屬性操作 (例如 element.src, element.textContent, element.classList.add/remove)：用於更新頁面內容和視覺效果。
+| :--- | :--- |
+| 專案名稱 | 校園活動報名系統 |
+| 組員 | XXX, XXX |
+| 專案簡介 | 使用者可線上報名活動，系統具表單驗證與送出確認。 |
+| 使用技術 | HTML、CSS、Bootstrap、JavaScript、Constraint Validation API |
+| 功能特色 | 1. 表單即時驗證 2. 報名資料顯示 3. 防止重複送出 |
+| GitHub Pages 網址 | https://username.github.io/114_web_midterm_project |

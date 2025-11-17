@@ -80,15 +80,6 @@ header h1 {
     overflow: hidden;
 }
 
-#intro-screen::before {
-    content: '✈';
-    position: absolute;
-    font-size: 15rem;
-    color: rgba(30, 60, 114, 0.05);
-    right: -50px;
-    bottom: -50px;
-    transform: rotate(-25deg);
-}
 
 #intro-screen h2 {
     color: #1e3c72;
